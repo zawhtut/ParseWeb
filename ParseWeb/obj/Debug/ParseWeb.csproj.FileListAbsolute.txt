@@ -1,9 +1,0 @@
-c:\users\main\documents\visual studio 2015\Projects\ParseWeb\ParseWeb\bin\Debug\ParseWeb.exe.config
-c:\users\main\documents\visual studio 2015\Projects\ParseWeb\ParseWeb\bin\Debug\ParseWeb.exe
-c:\users\main\documents\visual studio 2015\Projects\ParseWeb\ParseWeb\bin\Debug\ParseWeb.pdb
-c:\users\main\documents\visual studio 2015\Projects\ParseWeb\ParseWeb\bin\Debug\HtmlAgilityPack.dll
-c:\users\main\documents\visual studio 2015\Projects\ParseWeb\ParseWeb\bin\Debug\HtmlAgilityPack.pdb
-c:\users\main\documents\visual studio 2015\Projects\ParseWeb\ParseWeb\bin\Debug\HtmlAgilityPack.xml
-c:\users\main\documents\visual studio 2015\Projects\ParseWeb\ParseWeb\obj\Debug\ParseWeb.csprojResolveAssemblyReference.cache
-c:\users\main\documents\visual studio 2015\Projects\ParseWeb\ParseWeb\obj\Debug\ParseWeb.exe
-c:\users\main\documents\visual studio 2015\Projects\ParseWeb\ParseWeb\obj\Debug\ParseWeb.pdb
